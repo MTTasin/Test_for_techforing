@@ -45,7 +45,7 @@ Latest Python installed on your machine.
 ## Things that is not included in this project.
 
 - Email Verification
-- Password Reset
+- Sending Email
 - Separate permissions for each user role
 - Frontend
 
