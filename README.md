@@ -38,8 +38,6 @@ Latest Python installed on your machine.
 
 ### You can check out the API documentation here: https://documenter.getpostman.com/view/39612988/2sAY52cKiU
 
-#### Or you can import the documentation file located in the root directory named: "Documentations for test project.postman_collection.json"  into postman.
-
 
 
 ## Things that is not included in this project.
